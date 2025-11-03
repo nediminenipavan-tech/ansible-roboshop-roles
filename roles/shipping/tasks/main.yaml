@@ -14,7 +14,7 @@
     name: "{{ item }}"
   loop:
   - cryptography
-  - PyMySQL
+  - PyMySQL 
 
 - name: import shipping data into mysql
   community.mysql.mysql_db:
