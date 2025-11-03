@@ -1,3 +1,5 @@
 MONGODB_HOST: mongodb.daws86pavan.cyou 
 REDIS_HOST: redis.daws86pavan.cyou 
 CATALOGUE_HOST: catalogue.daws86pavan.cyou 
+CART_HOST: cart.daws86pavan.cyou 
+MYSQL_HOST: mysql.daws86pavan.cyou 
